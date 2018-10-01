@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Access Guide</string>
+    <string name="string_wheelchair_ramp">Wheelchair ramp</string>
+    <string name="string_place_icon">Place icon</string>
+    <string name="string_powered_by_google">Powered by Google</string>
+    <string name="title_activity_detail">Access Guide</string>
+    <string name="string_data_not_available">Wheelchair access status is not available</string>
+    <string name="string_wheelchair_access">Wheelchair access:&#160;</string>
+    <string name="string_yes">Yes</string>
+    <string name="string_limited">Limited</string>
+    <string name="string_no">No</string>
+    <string name="string_unknown">Unknown</string>
+    <string name="string_my_review">My review</string>
+</resources>
